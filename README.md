@@ -1,6 +1,6 @@
-# Data-Cleaning-With-MySQL
+# SQL Project – Data Cleaning
 
-This project focuses on data cleaning using SQL. The objective is to demonstrate practical SQL data cleaning techniques such as removing duplicates, standardizing values, handling nulls, and preparing the dataset for exploratory data analysis (EDA).
+This project focuses on **data cleaning using SQL**. The objective is to demonstrate practical **SQL data cleaning techniques** such as removing duplicates, standardizing values, handling nulls, and preparing the dataset for exploratory data analysis (EDA).
 ---
 
 ## Steps in Data Cleaning  
